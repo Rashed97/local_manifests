@@ -35,6 +35,7 @@
 
   <remove-project name="device/lge/mako" />
   <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" remote="cm" revision="cm-12.0" />
+  <remove-project name="device/asus/flo" />
   <project path="device/asus/flo" name="CyanogenMod/android_device_asus_flo" remote="cm" revision="cm-12.0" />
   <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" remote="cm" revision="cm-12.0" />
   <project name="Rashed97/android_device_lge_d801" path="device/lge/d801" remote="github" revision="cm-12.0"/>
