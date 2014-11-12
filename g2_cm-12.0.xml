@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="lg-devs/android_device_lge_d800" path="device/lge/d800" remote="github" revision="cm-12.0"/> -->
+  <project name="lg-devs/android_device_lge_d800" path="device/lge/d800" remote="github" revision="cm-12.0"/>
   <project name="lg-devs/android_device_lge_d801" path="device/lge/d801" remote="github" revision="cm-12.0"/>
   <project name="lg-devs/android_device_lge_d802" path="device/lge/d802" remote="github" revision="cm-12.0"/>
   <project name="lg-devs/android_device_lge_ls980" path="device/lge/ls980" remote="github" revision="cm-12.0"/>
@@ -9,7 +9,4 @@
   <project name="lg-devs/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="github" revision="cm-12.0"/>
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0"/>
   
-  <!-- <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/default" remote="github" revision="cm-12.0-caf-8974"/>
-  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" remote="github" revision="cm-12.0-caf-8974"/>
-  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" remote="github" revision="cm-12.0-caf-8974"/> -->
 </manifest>
