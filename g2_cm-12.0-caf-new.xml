@@ -11,7 +11,4 @@
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0"/>
   <project name="lg-devs/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0-caf-8974"/>
 
-  <!--<remove-project name="hardware/qcom/audio-caf/msm8974" /
-  <remove-project name="hardware/qcom/display-caf/msm8974" />
-  <remove-project name="hardware/qcom/media-caf/msm8974" />>-->
 </manifest>
