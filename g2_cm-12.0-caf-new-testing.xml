@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="lg-devs/android_device_lge_d800" path="device/lge/d800" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_d801" path="device/lge/d801" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_d802" path="device/lge/d802" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_d803" path="device/lge/d803" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_f320" path="device/lge/f320" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_ls980" path="device/lge/ls980" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_vs980" path="device/lge/vs980" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_l01f" path="device/lge/l01f" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_g2-common" path="device/lge/g2-common" remote="github" revision="cm-12.0-caf5-testing"/>
+  <project name="lg-devs/android_kernel_lge_msm8974-caf" path="kernel/lge/msm8974-caf" remote="github" revision="lge-kk"/>
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0-caf2"/>
+
+</manifest>
