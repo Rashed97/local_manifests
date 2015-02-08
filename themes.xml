@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="cyngn/android_packages_themes_Template" path="packages/themes/Template" remote="github" revision="master"/>
+  <project name="Rashed97/android_packages_themes_MaterialDark" path="packages/themes/MaterialDark" remote="github" revision="cm-12.0"/>
+  <project name="Rashed97/android_packages_themes_MaterialLight" path="packages/themes/MaterialLight" remote="github" revision="cm-12.0"/>
+</manifest>
