@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="lg-devs/android_device_lge_h950" path="device/lge/h950" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_h955" path="device/lge/h955" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_ls996" path="device/lge/ls996" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_f510" path="device/lge/f510" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_z2-common" path="device/lge/z2-common" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_device_lge_g4-common" path="device/lge/g4-common" remote="github" revision="cm-12.0"/>
+  <project name="lg-devs/android_kernel_lge_msm8994" path="kernel/lge/msm8994" remote="github" revision="cm-12.0"/>
+
+</manifest>
