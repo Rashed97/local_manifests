@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_lge_d850" path="device/lge/d850" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_lge_d851" path="device/lge/d851" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_lge_d852" path="device/lge/d852" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_lge_d855" path="device/lge/d855" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_lge_ls990" path="device/lge/ls990" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_lge_vs985" path="device/lge/vs985" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-12.1"/>
+
+</manifest>
