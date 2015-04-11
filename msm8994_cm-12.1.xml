@@ -11,5 +11,6 @@
   <project name="Hima-Dev/android_device_htc_m9gsm" path="device/htc/m9gsm" remote="github" revision="cm-12.1"/>
   <project name="Hima-Dev/android_device_htc_m9-common" path="device/htc/m9-common" remote="github" revision="cm-12.1"/>
   <project name="Hima-Dev/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-12.1"/>
+  <project name="Hima-Dev/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.1"/>
 
 </manifest>
