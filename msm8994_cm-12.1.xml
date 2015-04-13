@@ -13,4 +13,11 @@
   <project name="Hima-Dev/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-12.1"/>
   <project name="Hima-Dev/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.1"/>
 
+  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project path="hardware/qcom/audio-caf/msm8994" name="lg-devs/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="cm-12.1-caf-8994" />
+  <project path="hardware/qcom/display-caf/msm8994" name="lg-devs/android_hardware_qcom_display" groups="qcom,qcom_display" revision="cm-12.1-caf-8994" />
+  <project path="hardware/qcom/media-caf/msm8994" name="lg-devs/android_hardware_qcom_media" groups="qcom" revision="cm-12.1-caf-8994" />
+
 </manifest>
