@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="Hima-Dev/android_device_htc_himaul" path="device/htc/himaul" remote="github" revision="cm-12.1"/>
+  <project name="Hima-Dev/android_device_htc_hima-common" path="device/htc/hima-common" remote="github" revision="cm-12.1"/>
+  <project name="Hima-Dev/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-12.1-new"/>
+  <project name="Hima-Dev/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.1"/>
+
+</manifest>
