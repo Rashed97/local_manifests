@@ -8,5 +8,5 @@
   <project name="lg-devs/android_device_lge_ls980" path="device/lge/ls980" remote="github" revision="cm-12.1-caf"/>
   <project name="lg-devs/android_device_lge_vs980" path="device/lge/vs980" remote="github" revision="cm-12.1-caf"/>
   <project name="lg-devs/android_device_lge_g2-common" path="device/lge/g2-common" remote="github" revision="cm-12.1-caf"/>
-  <project name="lg-devs/android_kernel_lge_msm8974-caf" path="kernel/lge/msm8974-caf" remote="github" revision="cm-12.1-caf"/>
+  <project name="lg-devs/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="github" revision="cm-12.1-caf"/>
 </manifest>
